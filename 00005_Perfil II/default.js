@@ -1,7 +1,7 @@
 let perfil = {
   nombreCompleto: {
-    nombre: "Hedy",
-    apellido: "Lamarr",
+    nombre: "Marie",
+    apellido: "Curie",
   },
   edad: 30,
 };
