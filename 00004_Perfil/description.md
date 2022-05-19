@@ -2,7 +2,7 @@ Necesitamos agregarle al objeto `perfil` un método `obtenerNombreCompleto`, que
 
 ```js
 ム perfil.obtenerNombreCompleto()
-"Hedy Lamarr"
+"Marie Curie"
 ```
 
 > Definí el método `obtenerNombreCompleto` dentro de la variable `perfil`.

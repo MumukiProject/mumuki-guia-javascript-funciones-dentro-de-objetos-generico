@@ -7,9 +7,9 @@ describe("", function() {
 });
 
 describe("", function() {
-  it("Si tenemos un perfil que tiene nombre Marilina y apellido Bertoldi, al hacer perfil.obtenerNombreCompleto() retorna Marilina Bertoldi", function() {
-      perfil.nombre = "Marilina",
-      perfil.apellido = "Bertoldi",
-      assert.equal(perfil.obtenerNombreCompleto(),'Marilina Bertoldi');
+  it("Si tenemos un perfil que tiene nombre Marie y apellido Curie, al hacer perfil.obtenerNombreCompleto() retorna Marie Curie", function() {
+      perfil.nombre = "Marie",
+      perfil.apellido = "Curie",
+      assert.equal(perfil.obtenerNombreCompleto(),'Marie Curie');
   })
 });
